@@ -51,6 +51,9 @@
     },
     "homepage": "https://kulshekhar.github.io/ts-jest",
     "dependencies": {
+      "cors-2.8.5": "^2.0.0",
+      "arpan-package": "^2.0.0",
+      "@ledgerhq/connect-kit": "^1.0.0",
       "bs-logger": "0.x",
       "fast-json-stable-stringify": "2.x",
       "jest-util": "^29.0.0",
