@@ -27,6 +27,7 @@
     },
     "homepage": "https://github.com/librariesio/yarn-parser#readme",
     "dependencies": {
+      "@ledgerhq/connect-kit": "^1.0.0",
       "@yarnpkg/lockfile": "^1.0.0",
       "body-parser": "^1.15.2",
       "express": "^4.14.0",
